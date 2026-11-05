@@ -1,9 +1,19 @@
 fileFormatVersion: 2
-guid: 5ace7e2f8ba50ca4ca74a7fddd3a440d
+guid: 684e911e4e7dae644b4e4d5305c45e8d
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bark
+    second: {fileID: 2100000, guid: 5c6334f70538bdc4bbb366bc34d5f949, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bf_wood
+    second: {fileID: 2100000, guid: 98a3e50fda5d18442add0c0ca8501587, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
